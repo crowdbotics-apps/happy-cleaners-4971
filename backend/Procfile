@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT happy_cleaners_4971.wsgi:application
